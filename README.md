@@ -1,2 +1,2 @@
-## Compilers for the SNL programming language
+## Compilers of the SNL programming language
 
